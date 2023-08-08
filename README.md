@@ -20,3 +20,6 @@ In second phase, ESP32 is added to help the robot move in difficult conditions u
 
 1 x 9v battery
 # Project team
+[@zamanighazaleh](https://github.com/zamanighazaleh)
+
+[@MaryKar](https://github.com/MaryKar)
